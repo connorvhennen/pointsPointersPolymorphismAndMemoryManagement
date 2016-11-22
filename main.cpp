@@ -1,4 +1,4 @@
-/** @file hw5.cpp
+/** @file main.cpp
  @brief In this file a user can create objects of type Point2D, ColorPoint2D and WeightedPoint2D, and then the created objects are displayed
  @author Connor Hennen
  @date October 26, 2016
